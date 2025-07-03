@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/shekharrana007/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/shekharrana007/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/shekharrana007/Leetcode/tree/master/0619-biggest-single-number) |
+| [1258-article-views-i](https://github.com/shekharrana007/Leetcode/tree/master/1258-article-views-i) |
 | [1811-fix-names-in-a-table](https://github.com/shekharrana007/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/shekharrana007/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/shekharrana007/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
