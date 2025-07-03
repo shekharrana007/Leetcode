@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/shekharrana007/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/shekharrana007/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0584-find-customer-referee](https://github.com/shekharrana007/Leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/shekharrana007/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/shekharrana007/Leetcode/tree/master/0619-biggest-single-number) |
 | [1811-fix-names-in-a-table](https://github.com/shekharrana007/Leetcode/tree/master/1811-fix-names-in-a-table) |
