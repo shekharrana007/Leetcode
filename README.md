@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shekharrana007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shekharrana007/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shekharrana007/Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/shekharrana007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shekharrana007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shekharrana007/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shekharrana007/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shekharrana007/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/shekharrana007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shekharrana007/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shekharrana007/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/shekharrana007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/shekharrana007/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/shekharrana007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shekharrana007/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shekharrana007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekharrana007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shekharrana007/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shekharrana007/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/shekharrana007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shekharrana007/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Database
 |  |
