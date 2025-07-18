@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/shekharrana007/Leetcode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/shekharrana007/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/shekharrana007/Leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1179-game-play-analysis-i](https://github.com/shekharrana007/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/shekharrana007/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/shekharrana007/Leetcode/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/shekharrana007/Leetcode/tree/master/1278-product-price-at-a-given-date) |
