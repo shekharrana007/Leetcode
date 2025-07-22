@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shekharrana007/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shekharrana007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shekharrana007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1813-maximum-erasure-value](https://github.com/shekharrana007/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shekharrana007/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Stack
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shekharrana007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/shekharrana007/Leetcode/tree/master/0735-asteroid-collision) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shekharrana007/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1813-maximum-erasure-value](https://github.com/shekharrana007/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shekharrana007/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekharrana007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shekharrana007/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1813-maximum-erasure-value](https://github.com/shekharrana007/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
