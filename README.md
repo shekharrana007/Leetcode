@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shekharrana007/Leetcode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/shekharrana007/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/shekharrana007/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shekharrana007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shekharrana007/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shekharrana007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/shekharrana007/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shekharrana007/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shekharrana007/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shekharrana007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
