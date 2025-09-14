@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shekharrana007/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shekharrana007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shekharrana007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/shekharrana007/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/shekharrana007/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shekharrana007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shekharrana007/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shekharrana007/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shekharrana007/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/shekharrana007/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shekharrana007/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/shekharrana007/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shekharrana007/Leetcode/tree/master/0268-missing-number) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shekharrana007/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/shekharrana007/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/shekharrana007/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/shekharrana007/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Divide and Conquer
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shekharrana007/Leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/shekharrana007/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/shekharrana007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/shekharrana007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
