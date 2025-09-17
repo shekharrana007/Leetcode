@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shekharrana007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shekharrana007/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shekharrana007/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shekharrana007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/shekharrana007/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shekharrana007/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shekharrana007/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shekharrana007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shekharrana007/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekharrana007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/shekharrana007/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shekharrana007/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shekharrana007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/shekharrana007/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Prefix Sum
 |  |
