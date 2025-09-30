@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shekharrana007/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shekharrana007/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shekharrana007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/shekharrana007/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shekharrana007/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shekharrana007/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shekharrana007/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shekharrana007/Leetcode/tree/master/0268-missing-number) |
 | [0826-soup-servings](https://github.com/shekharrana007/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/shekharrana007/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2032-largest-odd-number-in-string](https://github.com/shekharrana007/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3830-find-closest-person](https://github.com/shekharrana007/Leetcode/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shekharrana007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shekharrana007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/shekharrana007/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/shekharrana007/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Monotonic Stack
 |  |
