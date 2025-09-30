@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shekharrana007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shekharrana007/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shekharrana007/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shekharrana007/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shekharrana007/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shekharrana007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shekharrana007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shekharrana007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shekharrana007/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/shekharrana007/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shekharrana007/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shekharrana007/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shekharrana007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shekharrana007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shekharrana007/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shekharrana007/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/shekharrana007/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shekharrana007/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/shekharrana007/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Divide and Conquer
