@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shekharrana007/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shekharrana007/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/shekharrana007/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/shekharrana007/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekharrana007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/shekharrana007/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shekharrana007/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shekharrana007/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1768-merge-strings-alternately](https://github.com/shekharrana007/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shekharrana007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/shekharrana007/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shekharrana007/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
