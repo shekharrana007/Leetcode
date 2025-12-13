@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shekharrana007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shekharrana007/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shekharrana007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/shekharrana007/Leetcode/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/shekharrana007/Leetcode/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/shekharrana007/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shekharrana007/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shekharrana007/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/shekharrana007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/shekharrana007/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/shekharrana007/Leetcode/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shekharrana007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/shekharrana007/Leetcode/tree/master/2032-largest-odd-number-in-string) |
