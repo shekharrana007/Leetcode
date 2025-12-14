@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shekharrana007/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shekharrana007/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shekharrana007/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shekharrana007/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/shekharrana007/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/shekharrana007/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekharrana007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shekharrana007/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shekharrana007/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shekharrana007/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shekharrana007/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/shekharrana007/Leetcode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shekharrana007/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
