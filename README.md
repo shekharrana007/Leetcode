@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shekharrana007/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shekharrana007/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1813-maximum-erasure-value](https://github.com/shekharrana007/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1929-concatenation-of-array](https://github.com/shekharrana007/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shekharrana007/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shekharrana007/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/shekharrana007/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shekharrana007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shekharrana007/Leetcode/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/shekharrana007/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekharrana007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/shekharrana007/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
