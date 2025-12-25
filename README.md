@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shekharrana007/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/shekharrana007/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shekharrana007/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shekharrana007/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shekharrana007/Leetcode/tree/master/0268-missing-number) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shekharrana007/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shekharrana007/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shekharrana007/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shekharrana007/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shekharrana007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shekharrana007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shekharrana007/Leetcode/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shekharrana007/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
