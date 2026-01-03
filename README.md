@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/shekharrana007/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shekharrana007/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/shekharrana007/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shekharrana007/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shekharrana007/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## String
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shekharrana007/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shekharrana007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shekharrana007/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shekharrana007/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/shekharrana007/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1813-maximum-erasure-value](https://github.com/shekharrana007/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/shekharrana007/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shekharrana007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shekharrana007/Leetcode/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shekharrana007/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/shekharrana007/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shekharrana007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/shekharrana007/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
