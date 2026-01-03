@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shekharrana007/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/shekharrana007/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0826-soup-servings](https://github.com/shekharrana007/Leetcode/tree/master/0826-soup-servings) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shekharrana007/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Simulation
 |  |
 | ------- |
