@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shekharrana007/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shekharrana007/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shekharrana007/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/shekharrana007/Leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shekharrana007/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shekharrana007/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/shekharrana007/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/shekharrana007/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/shekharrana007/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shekharrana007/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1390-four-divisors](https://github.com/shekharrana007/Leetcode/tree/master/1390-four-divisors) |
 | [2032-largest-odd-number-in-string](https://github.com/shekharrana007/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3830-find-closest-person](https://github.com/shekharrana007/Leetcode/tree/master/3830-find-closest-person) |
 ## Binary Search
