@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shekharrana007/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shekharrana007/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/shekharrana007/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1572-matrix-diagonal-sum](https://github.com/shekharrana007/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1813-maximum-erasure-value](https://github.com/shekharrana007/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/shekharrana007/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shekharrana007/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shekharrana007/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shekharrana007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/shekharrana007/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1572-matrix-diagonal-sum](https://github.com/shekharrana007/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Prefix Sum
 |  |
 | ------- |
