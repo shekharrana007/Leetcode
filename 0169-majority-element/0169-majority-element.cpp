@@ -1,34 +1,25 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        // int n=nums.size();
-        // int count=1;
-        // int maj=nums[0];
-        // for(int i=1;i<n;i++){
-        //     if(count==0){
-        //         maj=nums[i];
-        //         count=1;
-        //     }
-        //     else if(maj==nums[i]){
-        //         count++;
-        //     }
-        //     else{
-        //         count--;
-        //     }
+        // unordered_map<int,int>m;
+        // for(int s:nums){
+        //     m[s]++;
+        // }int n=nums.size()/2;
+        // int ans;
+        // for(auto const&[e,c]:m){
+        // if(c>n){
+        //     return e;
         // }
-        // return maj;
-
-         int n=nums.size();
-
-        map<int,int>m;
-        for(int i:nums){
-            m[i]++;
-        }
-        for(auto it : m){
-            if(it.second >(n/2)){
-                return it.first;
+        // }
+        // return -1;
+        int can=0;
+        int cnt=0;
+        for(int n:nums){
+            if(cnt==0){
+                can=n;
             }
+            cnt+=(n==can)?1:-1;
         }
-        return -1;
+        return can;
     }
 };
