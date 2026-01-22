@@ -1,31 +1,16 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int n=nums.size();
-        //     sort(nums.begin(),nums.end());
-        // int res;
-        // for(int i=0;i<n-1;i+=2){
-        //     if(nums[i]!=nums[i+1]){
-            
-        //         return nums[i];
-        //     }
-        // }
-        // return nums[n-1];
-
-
-
-        
-        for(int i=0;i<n;i++){
-            int count=0;
-            for(int j=0;j<n;j++){
-                if(nums[i]==nums[j]){
-                    count++;
-                }}
-                if(count==1){
-                    return nums[i];
-                }
+        unordered_map<int,int>m;
+        for(int i:nums){
+            m[i]++;
+        }
+        int ans;
+        for(auto a:m){
+            if(a.second==1){
+                return a.first;
+            }
         }
         return -1;
     }
-
 };
