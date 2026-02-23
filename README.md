@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shekharrana007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/shekharrana007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/shekharrana007/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/shekharrana007/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shekharrana007/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shekharrana007/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/shekharrana007/Leetcode/tree/master/0735-asteroid-collision) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shekharrana007/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/shekharrana007/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/shekharrana007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/shekharrana007/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/shekharrana007/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/shekharrana007/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/shekharrana007/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
