@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shekharrana007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shekharrana007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shekharrana007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/shekharrana007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/shekharrana007/Leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/shekharrana007/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/shekharrana007/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shekharrana007/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shekharrana007/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shekharrana007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/shekharrana007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/shekharrana007/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/shekharrana007/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shekharrana007/Leetcode/tree/master/0704-binary-search) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shekharrana007/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/shekharrana007/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shekharrana007/Leetcode/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/shekharrana007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/shekharrana007/Leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/shekharrana007/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0977-squares-of-a-sorted-array](https://github.com/shekharrana007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shekharrana007/Leetcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/shekharrana007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/shekharrana007/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shekharrana007/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shekharrana007/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/shekharrana007/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/shekharrana007/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/shekharrana007/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/shekharrana007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/shekharrana007/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/shekharrana007/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/shekharrana007/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
